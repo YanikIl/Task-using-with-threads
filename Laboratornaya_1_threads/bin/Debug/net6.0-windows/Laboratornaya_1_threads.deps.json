@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Laboratornaya_1_threads/1.0.0": {
+        "runtime": {
+          "Laboratornaya_1_threads.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laboratornaya_1_threads/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
